@@ -25,3 +25,7 @@ npm install
 npm start
 
 This will start your application.
+
+## Attribution
+This project was forked from qbws and originally written by @johnballantyne.
+Modified by @ShalakaP02.
